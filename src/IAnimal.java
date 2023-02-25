@@ -1,4 +1,4 @@
-public interface IAnimal {
+interface IAnimal {
     /*
     * This interface IAnimal is small and specific.
     * It focuses on the behavior of an animal.
